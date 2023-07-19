@@ -1,0 +1,13 @@
+# Ignore build artifacts and executables
+build/
+log_server
+
+# IntelliJ IDEA project file
+LogServer.iml
+
+# Ignore JetBrains IDE settings
+.idea/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
